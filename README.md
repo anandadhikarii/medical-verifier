@@ -2,8 +2,14 @@
 
 medical prescription analyzer
 
-
-
+requirements
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+google-generativeai
+python-dotenv
+requests
 
 
 
